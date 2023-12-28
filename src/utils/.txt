@@ -1,0 +1,1 @@
+Bu paplamizda loyixa tegishli bolgan emailChecker.js   getFormValues.js 

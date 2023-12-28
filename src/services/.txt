@@ -1,0 +1,1 @@
+Bu papkamizda loyixaga tegishli bolgan API request funksiyalar yoziladi.

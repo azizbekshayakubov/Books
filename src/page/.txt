@@ -1,0 +1,1 @@
+Bu papkamizda loyiga tegishli bo'lgan sahifa (page) fayllar yoziladi masalan m : Login.js, Home.js
